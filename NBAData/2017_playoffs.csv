@@ -1,4 +1,4 @@
-Rk,Team,Age,W,L,W/L%,PW,PL,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,eFG%,TOV%,ORB%,FT/FGA,,eFG%,TOV%,DRB%,FT/FGA
+Rk,Team,Age,W,L,W/L%,PW,PL,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,off_eFG%,off_TOV%,ORB%,off_FT/FGA,,eFG%,TOV%,DRB%,FT/FGA
 1,Golden State Warriors,28.3,16,1,.941,14,3,119.0,105.5,+13.5,100.3,.292,.378,.608,,.567,12.2,22.4,.238,,.487,12.3,76.6,.212
 2,Cleveland Cavaliers,29.3,13,5,.722,13,5,120.3,112.1,+8.2,96.6,.316,.408,.614,,.579,12.1,23.6,.242,,.521,11.9,76.1,.189
 3,Houston Rockets,28.1,6,5,.545,6,5,110.7,109.5,+1.2,96.4,.304,.452,.559,,.514,12.7,22.7,.240,,.502,11.1,71.7,.187

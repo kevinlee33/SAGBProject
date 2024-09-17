@@ -1,4 +1,4 @@
-Rk,Team,Age,W,L,W/L%,PW,PL,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,eFG%,TOV%,ORB%,FT/FGA,,eFG%,TOV%,DRB%,FT/FGA
+Rk,Team,Age,W,L,W/L%,PW,PL,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,off_eFG%,off_TOV%,ORB%,off_FT/FGA,,eFG%,TOV%,DRB%,FT/FGA
 1,Philadelphia 76ers,27.3,7,5,.583,9,3,116.0,108.5,+7.5,100.2,.342,.331,.589,,.561,11.5,21.3,.234,,.502,11.2,78.8,.235
 2,Brooklyn Nets,28.7,7,5,.583,8,4,116.1,109.6,+6.5,96.1,.235,.413,.592,,.551,10.9,19.7,.204,,.502,11.6,75.0,.190
 3,Milwaukee Bucks,29.2,16,7,.696,15,8,112.9,107.6,+5.3,96.9,.228,.384,.550,,.524,11.3,27.8,.164,,.523,12.2,81.6,.160

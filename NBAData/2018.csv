@@ -1,5 +1,5 @@
 ,,,,,,,,,,,,,,,,,,Offense Four Factors,Offense Four Factors,Offense Four Factors,Offense Four Factors,,Defense Four Factors,Defense Four Factors,Defense Four Factors,Defense Four Factors,,,,
-Rk,Team,Age,W,L,PW,PL,MOV,SOS,SRS,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,eFG%,TOV%,ORB%,FT/FGA,,eFG%,TOV%,DRB%,FT/FGA,,Arena,Attend.,Attend./G
+Rk,Team,Age,W,L,PW,PL,MOV,SOS,SRS,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,off_eFG%,off_TOV%,ORB%,off_FT/FGA,,eFG%,TOV%,DRB%,FT/FGA,,Arena,Attend.,Attend./G
 1,Houston Rockets*,29.8,65,17,61,21,8.48,-0.27,8.21,114.7,106.1,+8.6,97.6,.298,.502,.590,,.551,12.7,21.3,.233,,.521,13.4,79.9,.171,,Toyota Center,732722,17871
 2,Toronto Raptors*,25.8,59,23,60,22,7.78,-0.49,7.29,113.8,105.9,+7.9,97.4,.250,.377,.575,,.539,12.1,23.0,.198,,.501,13.0,77.7,.212,,Air Canada Centre,813431,19840
 3,Golden State Warriors*,28.8,58,24,56,26,5.98,-0.19,5.79,113.6,107.7,+5.9,99.6,.239,.339,.603,,.569,14.1,21.0,.195,,.504,12.6,76.3,.186,,Oracle Arena,803436,19596

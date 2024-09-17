@@ -1,5 +1,5 @@
 ,,,,,,,,,,,,,,,,,,Offense Four Factors,Offense Four Factors,Offense Four Factors,Offense Four Factors,,Defense Four Factors,Defense Four Factors,Defense Four Factors,Defense Four Factors,,,,
-Rk,Team,Age,W,L,PW,PL,MOV,SOS,SRS,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,eFG%,TOV%,ORB%,FT/FGA,,eFG%,TOV%,DRB%,FT/FGA,,Arena,Attend.,Attend./G
+Rk,Team,Age,W,L,PW,PL,MOV,SOS,SRS,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,off_eFG%,off_TOV%,ORB%,off_FT/FGA,,eFG%,TOV%,DRB%,FT/FGA,,Arena,Attend.,Attend./G
 1,Boston Celtics*,27.4,57,25,57,25,6.52,-0.15,6.38,118.0,111.5,+6.5,98.5,.243,.480,.600,,.566,12.0,22.1,.197,,.528,11.3,78.5,.180,,TD Garden,785396,19156
 2,Cleveland Cavaliers*,25.4,51,31,55,27,5.38,-0.15,5.23,116.1,110.6,+5.5,95.7,.264,.371,.590,,.556,12.3,23.6,.206,,.535,14.4,76.3,.210,,Rocket Mortgage Fieldhouse,777280,18958
 3,Philadelphia 76ers*,28.2,54,28,52,30,4.32,0.06,4.37,117.7,113.3,+4.4,96.9,.300,.389,.608,,.563,12.6,21.6,.250,,.541,13.0,77.2,.217,,Wells Fargo Center,839261,20470

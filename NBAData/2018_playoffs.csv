@@ -1,4 +1,4 @@
-Rk,Team,Age,W,L,W/L%,PW,PL,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,eFG%,TOV%,ORB%,FT/FGA,,eFG%,TOV%,DRB%,FT/FGA
+Rk,Team,Age,W,L,W/L%,PW,PL,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,off_eFG%,off_TOV%,ORB%,off_FT/FGA,,eFG%,TOV%,DRB%,FT/FGA
 1,Golden State Warriors,28.4,16,5,.762,17,4,113.9,103.6,+10.3,96.5,.237,.365,.581,,.545,11.9,21.8,.195,,.481,12.3,77.6,.186
 2,Indiana Pacers,26.2,3,4,.429,5,2,110.9,104.6,+6.3,90.7,.241,.339,.567,,.542,12.9,21.6,.171,,.503,14.3,77.7,.238
 3,Philadelphia 76ers,26.5,5,5,.500,6,4,110.4,106.5,+3.9,97.5,.320,.331,.539,,.493,12.6,29.1,.243,,.514,12.7,80.8,.232

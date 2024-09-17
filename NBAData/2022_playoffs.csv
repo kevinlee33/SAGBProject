@@ -1,4 +1,4 @@
-Rk,Team,Age,W,L,W/L%,PW,PL,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,eFG%,TOV%,ORB%,FT/FGA,,eFG%,TOV%,DRB%,FT/FGA
+Rk,Team,Age,W,L,W/L%,PW,PL,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,off_eFG%,off_TOV%,ORB%,off_FT/FGA,,eFG%,TOV%,DRB%,FT/FGA
 1,Golden State Warriors,28.2,16,6,.727,14,8,115.2,110.0,+5.2,97.1,.230,.433,.590,,.561,13.3,23.6,.176,,.522,12.7,77.5,.205
 2,Miami Heat,28.3,11,7,.611,11,7,110.6,106.6,+4.0,94.2,.253,.408,.550,,.509,12.0,23.3,.203,,.520,14.9,79.4,.251
 3,Boston Celtics,26.3,14,10,.583,15,9,110.7,107.0,+3.7,95.3,.283,.448,.574,,.533,13.8,21.9,.226,,.501,12.3,76.9,.181
